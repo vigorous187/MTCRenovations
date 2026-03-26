@@ -27,7 +27,8 @@
               "src/_redirects",
               "src/robots.txt",
               "src/sitemap.xml",
-              "src/llms.txt"
+              "src/llms.txt",
+              "src/google0c6dec8c6117fdd8.html"
             ],
             "styles": [
               "./node_modules/ngx-spinner/animations/ball-scale-multiple.css",
