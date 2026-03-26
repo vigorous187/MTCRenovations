@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /newleadintake
+Disallow: /newvendorintake
+Disallow: /thank-you
+
+Sitemap: https://www.mtcrenovations.ca/sitemap.xml
